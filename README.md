@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏼, I'm Aitor</h1>
+<h1 align="center">Hi 👋🏼, I'm Cesc</h1>
 <h3 align="center">A passionate FullStack developer from Barcelona</h3>
 
 ## Languages and Tools
@@ -102,7 +102,7 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanch8&layout=compact&hide=scss&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CescVila&layout=compact&hide=scss&theme=tokyonight"
   />
 </div>
 
