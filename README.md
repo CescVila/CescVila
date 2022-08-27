@@ -40,20 +40,6 @@
       />
     </a>
     &nbsp;
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-        alt="react"
-        width="24"
-      />
-    </a>
-    &nbsp;
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-        alt="express"
-        width="24"
-      />
     </a>
     &nbsp;
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
