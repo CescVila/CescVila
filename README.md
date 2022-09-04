@@ -49,7 +49,6 @@
         width="24"
       />
     </a>
-   
     &nbsp;
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img
