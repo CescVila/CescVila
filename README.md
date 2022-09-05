@@ -70,7 +70,12 @@
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=CescVila&layout=compact&hide=scss&theme=tokyonight"
   />
+   <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=CescVila&show_icons=true&locale=en&hide=issues" alt="Cesc Vila Github Stats" />
 </div>
+
+<p align="center">
+  <img src="https://page-views.glitch.me/badge?page_id=rodrigolapidus.visitor-badge" alt="Visitors to Rodrigo's Github Profile">
+</p>
 
 ## Contact Me
 <p align="center">
