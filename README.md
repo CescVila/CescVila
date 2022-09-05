@@ -32,14 +32,6 @@
       />
     </a>
     &nbsp;
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-        alt="nodejs"
-        width="24"
-      />
-    </a>
-    &nbsp;
     </a>
     &nbsp;
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
