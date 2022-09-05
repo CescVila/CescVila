@@ -59,6 +59,8 @@
     </a>
     &nbsp;
     <img width="24" alt="Supabase" src="https://user-images.githubusercontent.com/93733677/187199611-72d12457-21a3-4b54-94a7-52fa253863bb.svg">
+    &nbsp;
+   <img width="24" alt="VisualStudio Code" src="https://user-images.githubusercontent.com/93733677/175830790-1e53af26-bff0-42da-8735-20b6030accb7.png"> 
   </p>
 </div>
 
