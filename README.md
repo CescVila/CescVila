@@ -57,6 +57,8 @@
         width="24"
       />
     </a>
+    &nbsp;
+    <img width="24" alt="Supabase" src="https://user-images.githubusercontent.com/93733677/187199611-72d12457-21a3-4b54-94a7-52fa253863bb.svg">
   </p>
 </div>
 
