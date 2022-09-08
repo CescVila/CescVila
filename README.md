@@ -69,7 +69,7 @@
 
 <div align="center">
   <img height="150" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CescVila&layout=compact&hide=scss&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CescVila&layout=compact&hide=scss"
   />
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=CescVila&show_icons=true&locale=en&hide=issues" alt="Cesc Vila Github Stats" />
 </div>
