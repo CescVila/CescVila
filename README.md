@@ -75,7 +75,7 @@
 </div>
 
 <p align="center">
-  <img src="https://page-views.glitch.me/badge?page_id=rodrigolapidus.visitor-badge" alt="Visitors to Rodrigo's Github Profile">
+  <img src="https://page-views.glitch.me/badge?page_id=CescVila.visitor-badge" alt="Visitors to Cesc's Github Profile">
 </p>
 
 ## Contact Me
